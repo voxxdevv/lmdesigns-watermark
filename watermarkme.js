@@ -16,7 +16,7 @@
     logoImg.style.right = '20px';   // Distance from the right
     logoImg.style.width = '40px';   // Width of the image
     logoImg.style.height = '40px';  // Height of the image
-    logoImg.style.opacity = '0.8';  // Set the opacity to 0.8
+    logoImg.style.opacity = '0.5';  // Set the opacity to 0.5
     logoImg.style.zIndex = '100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000';
     logoImg.style.filter = 'drop-shadow(0 10px 20px rgba(0, 0, 0, 0.5), 0 0 2px rgba(0, 0, 0, 0.5))';
 
