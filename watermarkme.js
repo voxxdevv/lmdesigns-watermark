@@ -18,7 +18,7 @@
     logoImg.style.height = '40px';  // Height of the image
     logoImg.style.opacity = '0.5';  // Set the opacity to 0.4
     logoImg.style.zIndex = '100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000';
-    logoImg.style.boxShadow = '0 10px 20px rgba(0, 0, 0, 0.5), 0 0 2px rgba(0, 0, 0, 0.5)';
+    logoImg.style.filter = 'drop-shadow(0 10px 20px rgba(0, 0, 0, 0.5), 0 0 2px rgba(0, 0, 0, 0.5))';
 
     // Append the image to the anchor tag
     link.appendChild(logoImg);
