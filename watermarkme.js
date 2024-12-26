@@ -14,8 +14,8 @@
     logoImg.style.position = 'fixed';
     logoImg.style.bottom = '20px';  // Distance from the bottom
     logoImg.style.right = '20px';   // Distance from the right
-    logoImg.style.width = '20px';   // Width of the image
-    logoImg.style.height = '20px';  // Height of the image
+    logoImg.style.width = '40px';   // Width of the image
+    logoImg.style.height = '40px';  // Height of the image
     logoImg.style.opacity = '0.5';  // Set the opacity to 0.4
     logoImg.style.zIndex = '100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000';
     logoImg.style.boxShadow = '0 10px 20px rgba(0, 0, 0, 0.5), 0 0 2px rgba(0, 0, 0, 0.5)';
