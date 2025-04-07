@@ -12,13 +12,13 @@
 
     // Style the image to appear in the bottom-right corner
     logoImg.style.position = 'fixed'; // Ensure it stays fixed to the viewport
-    logoImg.style.bottom = '10px';  // Distance from the bottom
-    logoImg.style.right = '10px';   // Distance from the right
-    logoImg.style.width = '20px';   // Width of the image
-    logoImg.style.height = '20px';  // Height of the image
+    logoImg.style.bottom = '20px';  // Distance from the bottom
+    logoImg.style.right = '20px';   // Distance from the right
+    logoImg.style.width = '40px';   // Width of the image
+    logoImg.style.height = '40px';  // Height of the image
     logoImg.style.opacity = '0.5';  // Set the opacity to 0.5
     logoImg.style.zIndex = '2147483647'; // Max z-index to avoid interference
-    logoImg.style.filter = 'drop-shadow(0 1px 0 rgba(255, 255, 255, 0.1))';
+    logoImg.style.filter = 'drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.5))';
 
     // Ensure the image is not affected by any parent element styles
     logoImg.style.pointerEvents = 'auto'; // Allow click events
