@@ -32,6 +32,6 @@
     document.body.appendChild(link);
 
     // Log to verify that the image is added
-    console.log("Page watermarked by Loud Monkey Designs™.");
+    console.log("Page watermarked by Loud Monkey Designs™ (https://voxxdevv.is-a.dev/).");
   });
 })();
