@@ -12,6 +12,7 @@
 
     // Style the image to appear in the bottom-right corner
     logoImg.style.position = 'fixed'; // Ensure it stays fixed to the viewport
+    logoImg.style.backgroundAttachment = 'scroll';
     logoImg.style.bottom = '20px';  // Distance from the bottom
     logoImg.style.right = '20px';   // Distance from the right
     logoImg.style.width = '40px';   // Width of the image
